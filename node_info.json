@@ -1,0 +1,41 @@
+{"nodes":[{
+          "ID" : 1,
+          "x":-12.0,
+          "y":-0.37495,
+          "index":700100,
+          "next_nodes":[{
+                        "ID":2,
+                        "x":58.0,
+                        "y":-1.42495,
+                        "index":1101700,
+                        "type":1,
+                        "distance":1400,
+                        "move_direction":1,
+                        "road_name":"未来路",
+                        "road_ID":1,
+                        "right_direction":1,
+                        "k": -0.01620522777,
+                        "b": -0.739983
+                        }]
+           },
+          {
+          "ID" : 2,
+          "x":58.0,
+          "y":-1.42495,
+          "index":1101700,
+          "next_nodes":[{
+                        "ID":1,
+                        "x":-12,
+                        "y":-0.37495,
+                        "index":700100,
+                        "type":1,
+                        "distance":1400,
+                        "move_direction":1,
+                        "road_name":"未来路",
+                        "road_ID":1,
+                        "right_direction":1,
+                        "k": -0.01620522777,
+                        "b": -0.739983
+                        }]
+           }
+          ]}
